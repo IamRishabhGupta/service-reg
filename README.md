@@ -1,6 +1,6 @@
-Here's a template for a GitHub README file for your server registry (Eureka Server):
 
----
+
+
 
 # Server Registry (Eureka Server)
 
